@@ -1,4 +1,5 @@
-Well This is forked from https://github.com/raghakot/keras-resnet
+Well This is forked from https://github.com/raghakot/keras-resnet.
+
 I may  use this as a model for iceberg/ship competition.
 
 
