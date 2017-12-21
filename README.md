@@ -2,6 +2,8 @@ Well This is forked from https://github.com/raghakot/keras-resnet.
 
 I may  use this as a model for iceberg/ship competition.
 
+Many thanks to original contributer Mr. He and Mr. raghakot
+
 
 # keras-resnet
 [![Build Status](https://travis-ci.org/raghakot/keras-resnet.svg?branch=master)](https://travis-ci.org/raghakot/keras-resnet)
